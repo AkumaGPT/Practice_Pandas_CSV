@@ -1,0 +1,3 @@
+# ignore large/downloaded datasets
+salary_dataset.csv
+salary_dataset.xlsx
